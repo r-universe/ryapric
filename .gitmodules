@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "loggit"]
+	path = loggit
+	url = https://github.com/ryapric/loggit
+	shallow = true
+	registered = true
+[submodule "readit"]
+	path = readit
+	url = https://github.com/ryapric/readit
+	shallow = true
+	registered = true
