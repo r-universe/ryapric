@@ -1,5 +1,9 @@
 [
   {
+    "package": "loggit",
+    "oncran": true
+  },
+  {
     "package": "readit",
     "oncran": true
   }
