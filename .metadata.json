@@ -1,10 +1,10 @@
 [
   {
-    "package": "loggit",
+    "package": "readit",
     "oncran": true
   },
   {
-    "package": "readit",
+    "package": "loggit",
     "oncran": true
   }
 ]
